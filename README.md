@@ -10,7 +10,10 @@ A County_Boundary.shp file was used to create the Councty map and proprietary Ci
 <p align="center">
 <br/> 
 <img src="https://i.imgur.com/swwWOxj.jpeg" height="60%" width="60%"/> 
+
 <img src="https://i.imgur.com/tBwXMiL.jpeg" height="60%" width="60%"/> 
+
 <img src="https://i.imgur.com/lxodbyC.jpeg" height="60%" width="60%"/> 
+
 <img src="https://i.imgur.com/l8cWsZZ.jpeg" height="60%" width="60%"/> 
 <br />
